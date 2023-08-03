@@ -19,7 +19,8 @@ public class Demo1{
         int b=5;
 
         int result =a++ + a++ + b + b + a++ + b++;
-        //System.out.printf("result=%s , a=%s ,b=%s \n",result,a,b);
+
+        System.out.printf("result=%s , a=%s ,b=%s \n",result,a,b);
         
     }
 }
