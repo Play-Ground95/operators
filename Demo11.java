@@ -10,5 +10,6 @@ public class Demo11 {
         System.out.println(result2);
 
         //as these example we need to break the portions like as a signle portion that we called as a 'TOKEN'.
+        //EX- ++Y+++X+Y+++X => ++Y + ++X + Y++ + X
     }
 }
